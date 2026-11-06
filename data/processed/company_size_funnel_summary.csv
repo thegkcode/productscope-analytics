@@ -1,0 +1,4 @@
+company_size,signups,activated,trials,paid,activation_rate,trial_conversion_rate,paid_conversion_rate
+Large,1463,947,494,373,64.73,52.16,75.51
+Medium,3003,1908,972,616,63.54,50.94,63.37
+Small,5534,3459,1631,983,62.5,47.15,60.27

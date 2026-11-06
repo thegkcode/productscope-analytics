@@ -1,0 +1,12 @@
+metric,value
+Total Signups,10000.0
+Activated Users,6314.0
+Trial Users,3097.0
+Paid Users,1972.0
+Churned Users,267.0
+Activation Rate,63.14
+Trial Conversion Rate,49.05
+Paid Conversion Rate,63.67
+Overall Signup to Paid Rate,19.72
+Churn Rate,13.54
+Current MRR,67895.0

@@ -1,0 +1,5 @@
+stage,users,stage_order,conversion_from_previous
+Signup,10000,1,100.0
+Activation,6314,2,63.14
+Trial,3097,3,49.05
+Paid,1972,4,63.67

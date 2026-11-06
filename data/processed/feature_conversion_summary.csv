@@ -1,0 +1,5 @@
+feature_name,feature_adopters,trial_users,paid_users,trial_conversion_rate,paid_conversion_rate,paid_feature_users,churn_rate
+collaboration,2252,1158,854,51.42,37.92,854,9.02
+dashboard,3149,1676,1071,53.22,34.01,1071,13.82
+export,1689,970,618,57.43,36.59,618,12.94
+integration,1165,666,529,57.17,45.41,529,7.56
