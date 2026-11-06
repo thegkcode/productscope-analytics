@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  An end-to-end SaaS product analytics case study focused on user acquisition, conversion, feature adoption, engagement, retention, churn, and subscription revenue.
+  An end-to-end SaaS product analytics case study exploring user acquisition, conversion, feature adoption, engagement, retention, churn, and subscription revenue.
 </p>
 
 ---
@@ -14,9 +14,9 @@
 
 **ProductScope** is a SaaS product analytics project focused on understanding user behavior, product engagement, and subscription performance.
 
-The project uses **Python, Pandas, SQL, and Power BI** to explore how users interact with a digital product, identify patterns in feature usage, evaluate conversion funnels, and analyze customer retention and revenue performance.
+Using **Python, Pandas, SQL, and Power BI**, this project explores how users interact with a digital product, identifies patterns in feature usage, evaluates conversion funnels, and analyzes customer retention and subscription revenue.
 
-By combining data analysis, SQL-based business queries, and interactive dashboards, ProductScope transforms raw product data into meaningful business insights that can support better product and business decisions.
+The objective is to transform raw product data into meaningful business insights that help understand product performance, identify improvement opportunities, and support data-driven business decisions.
 
 ## 🎯 Business Objectives
 
@@ -54,7 +54,7 @@ These datasets are analyzed together to understand the customer journey, from in
 | Jupyter Notebook | Data exploration and analysis |
 | Power BI | Interactive dashboards |
 
-## 🔄 Project Workflow
+## 🔄 Analytical Workflow
 
 ### 1. Data Understanding & Preparation
 
@@ -73,7 +73,7 @@ These datasets are analyzed together to understand the customer journey, from in
 
 ### 3. Product & Customer Analytics
 
-Focused on understanding important SaaS product performance indicators:
+Analyzed important SaaS product performance indicators, including:
 
 - User acquisition and signup trends.
 - User activation rate.
@@ -92,11 +92,11 @@ Focused on understanding important SaaS product performance indicators:
 - Evaluated conversion and subscription performance.
 - Explored churn and revenue-related business questions.
 
-### 5. Power BI Dashboard
+### 5. Power BI Dashboard Development
 
-Created an interactive dashboard to present SaaS product performance and customer analytics.
+Developed an interactive Power BI dashboard to present SaaS product performance and customer analytics.
 
-The dashboard focuses on:
+Key analytical areas include:
 
 - Key performance indicators (KPIs).
 - User acquisition and conversion.
@@ -107,7 +107,7 @@ The dashboard focuses on:
 
 ## 🔍 Key Business Questions
 
-ProductScope explores business questions such as:
+ProductScope explores important business questions such as:
 
 1. How are new users acquired over time?
 2. What percentage of users become activated?
@@ -135,23 +135,7 @@ ProductScope explores business questions such as:
 | Churn Rate | Measures the proportion of customers discontinuing subscriptions |
 | MRR | Measures recurring subscription revenue |
 
-*Metric definitions and calculation logic are based on the analytical methodology used in the project.*
-
-## 📈 Dashboard Preview
-
-The Power BI dashboard provides a consolidated view of SaaS product performance, helping explore important business metrics and customer behavior.
-
-### Product Performance Overview
-
-![Product Performance Dashboard](assets/dashboard/product_performance.png)
-
-### User Acquisition & Conversion Funnel
-
-![Acquisition and Conversion Dashboard](assets/dashboard/acquisition_funnel.png)
-
-### Engagement, Retention & Revenue
-
-![Engagement and Revenue Dashboard](assets/dashboard/retention_revenue.png)
+*Metric definitions and calculation logic follow the analytical methodology used in the project.*
 
 ## 💡 Business Value
 
@@ -164,6 +148,20 @@ ProductScope demonstrates how product analytics can help SaaS businesses make in
 - **Improve Retention:** Explore churn behavior and identify potential retention opportunities.
 - **Grow Subscription Revenue:** Monitor recurring revenue and evaluate subscription performance.
 
+## 📚 Key Learnings
+
+Through this project, I developed practical experience in:
+
+- Working with multiple related datasets.
+- Data cleaning and preprocessing using Python and Pandas.
+- Exploratory Data Analysis and data visualization.
+- Writing SQL queries for business-oriented analysis.
+- Understanding SaaS product analytics metrics.
+- Analyzing user journeys and conversion funnels.
+- Exploring feature adoption, retention, and churn.
+- Developing interactive Power BI dashboards.
+- Translating analytical findings into business-focused insights.
+
 ## 🚀 Future Enhancements
 
 - Implement cohort-based retention analysis.
@@ -173,6 +171,8 @@ ProductScope demonstrates how product analytics can help SaaS businesses make in
 - Build user engagement scoring.
 - Develop predictive churn analysis.
 - Create automated reporting for important product KPIs.
+
+---
 
 ## 👨‍💻 Author
 
