@@ -184,6 +184,6 @@ Computer Science Student | Aspiring Data Analyst
 
 ---
 
-<p align="center">
-  <strong>From User Behavior to Business Intelligence.</strong>
-</p>
+<div align="center">
+  <em><strong>From User Behavior to Business Intelligence.</strong></em>
+</div>
